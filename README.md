@@ -1,4 +1,4 @@
-# Pedestrian-Detection-and-Tracking-for-Autonomous-Cars
+# Tracking-for-Autonomous-Vehicles-and-Pedestrian-Detection
 
 This project aims to identify and track pedestrians from the eyes of a moving vehicle, which would enable the vehicle to avoid those paths using Histogram of Oriented Gradients for pedestrian detection and Kalman Filter for tracking and prediction.
 
